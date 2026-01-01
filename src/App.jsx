@@ -54,7 +54,7 @@ function App() {
       <header className="hero" aria-label="Produktet e bletës Kristi">
         <div className="heroInner">
           <p className="kicker"></p>
-          <h1 className="title">Produktet e Bletës Kristi</h1>
+          <h1 className="title">Produktet e Bletës</h1>
           <p className="subtitle">
             Propolis, Qumësht Mbretëror dhe Mjaltë — produkte të thjeshta e natyrale, me paraqitje të pastër dhe kontakt të lehtë.
           </p>
