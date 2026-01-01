@@ -153,7 +153,7 @@ function App() {
       </main>
 
       <footer className="footer">
-        <p className="footerText">© {new Date().getFullYear()} Produktet e Bletës Kristi</p>
+        <p className="footerText">© {new Date().getFullYear()} Produktet e Bletës</p>
       </footer>
     </div>
   )
