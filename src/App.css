@@ -118,6 +118,19 @@
   opacity: 0.8;
 }
 
+.titleRow {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.titleIcon {
+  width: 44px;
+  height: 44px;
+  flex: 0 0 auto;
+  filter: drop-shadow(0 10px 18px rgba(0, 0, 0, 0.14));
+}
+
 .title {
   margin: 0;
   font-size: clamp(36px, 5vw, 56px);
